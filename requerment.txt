@@ -1,0 +1,18 @@
+# Hangman Game Requirements
+
+# This project is built using HTML, CSS, and JavaScript.
+# No additional libraries are required to run the game, but you can include the following for enhanced functionality:
+
+
+
+
+
+
+# Note: If you are using any other libraries, please list them here.
+# For example, if you are using a custom script, you can mention it as well.
+
+# Custom Scripts
+# - index.js (your main JavaScript file for game logic)
+# - main.css (your main CSS file for styling)
+
+# To run the game, simply open index.html in a web browser.
